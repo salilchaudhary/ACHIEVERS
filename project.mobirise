@@ -128,9 +128,10 @@
               "linkInNewWindow": false,
               "name": "flying-rocket",
               "family": "icon54-v3",
-              "link": "https://mobirise.com",
+              "link": "index.html#header3-m",
               "size": 0,
-              "active": true
+              "active": true,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-m\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ACHIEVERS</a>",
@@ -1035,8 +1036,9 @@
               "src": "@PROJECT_PATH@/assets/images/achievers-logo-trans1-228x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html#header3-m",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1165,9 +1167,10 @@
               "linkInNewWindow": false,
               "name": "flying-rocket",
               "family": "icon54-v3",
-              "link": "https://mobirise.com",
+              "link": "index.html#header3-m",
               "size": 0,
-              "active": true
+              "active": true,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-m\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ACHIEVERS</a>",
@@ -1568,8 +1571,9 @@
               "src": "@PROJECT_PATH@/assets/images/achievers-logo-trans1-228x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html#header3-m",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1698,9 +1702,10 @@
               "linkInNewWindow": false,
               "name": "flying-rocket",
               "family": "icon54-v3",
-              "link": "https://mobirise.com",
+              "link": "index.html#header3-m",
               "size": 0,
-              "active": true
+              "active": true,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-m\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ACHIEVERS</a>",
@@ -1742,8 +1747,9 @@
               "src": "@PROJECT_PATH@/assets/images/achievers-logo-trans1-228x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html#header3-m",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2430,9 +2436,10 @@
               "linkInNewWindow": false,
               "name": "flying-rocket",
               "family": "icon54-v3",
-              "link": "https://mobirise.com",
+              "link": "index.html#header3-m",
               "size": 0,
-              "active": true
+              "active": true,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-m\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ACHIEVERS</a>",
@@ -2474,8 +2481,9 @@
               "src": "@PROJECT_PATH@/assets/images/achievers-logo-trans1-228x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html#header3-m",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
