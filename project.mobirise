@@ -1266,7 +1266,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showSubtitle": true,
+            "showSubtitle": false,
             "showText": true,
             "showButtons": false,
             "showArrow": false,
