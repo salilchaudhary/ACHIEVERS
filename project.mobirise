@@ -1377,7 +1377,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">bOOK SEAT NOW</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"tel: 09892078713\" data-toolbar=\"-mbrBtnMove\">CALL OUR EXPERT</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#contacts1-2a\" data-toolbar=\"-mbrBtnMove\">bOOK SEAT NOW</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"tel: 09892078713\" data-toolbar=\"-mbrBtnMove\">CALL OUR EXPERT</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -1392,7 +1392,7 @@
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-section-text": {
               "color": "#ffffff"
@@ -1489,7 +1489,7 @@
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-section-text": {
               "color": "#ecf0f1"
@@ -1586,7 +1586,7 @@
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-section-text": {
               "color": "#ecf0f1"
@@ -1682,7 +1682,7 @@
             "paddingBottom": 1,
             "bgColor": "#e74c3c"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">BOOK SEAT NOW</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"tel: 09892078713\" data-toolbar=\"-mbrBtnMove\">CALL OUR EXPERT</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#contacts1-2a\" data-toolbar=\"-mbrBtnMove\">BOOK SEAT NOW</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"tel: 09892078713\" data-toolbar=\"-mbrBtnMove\">CALL OUR EXPERT</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
